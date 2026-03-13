@@ -1,5 +1,3 @@
-
-
 /* 🚨NÃO ALTERAR A CLASSE 🚨 */
 
 class Senai {
